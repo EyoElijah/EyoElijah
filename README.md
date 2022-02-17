@@ -109,8 +109,8 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
   <br />
 
-![Profile views](https://gpvc.arturio.dev/eyoelijah)
+![Profile views](https://gpvc.arturio.dev/EyoElijah)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eyoelijah.eyoelijah)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EyoElijah.EyoElijah)
 
 </div>
