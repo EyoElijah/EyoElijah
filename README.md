@@ -97,20 +97,20 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EyoElijah&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true&theme=radical)
 
   <br />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EyoElijah&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyoelijah&layout=compact&theme=radical)
   
   <br />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=EyoElijah&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eyoelijah&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 
   <br />
 
-![Profile views](https://gpvc.arturio.dev/EyoElijah)
+![Profile views](https://gpvc.arturio.dev/eyoelijah)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EyoElijah.EyoElijah)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eyoelijah.eyoelijah)
 
 </div>
