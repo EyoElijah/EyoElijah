@@ -97,7 +97,7 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EyoElijah&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true&theme=radical)
 
   <br />
   
@@ -111,6 +111,6 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
 ![Profile views](https://gpvc.arturio.dev/EyoElijah)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=EyoElijah.EyoElijah)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eyoelijah.eyoelijah)
 
 </div>
