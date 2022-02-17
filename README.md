@@ -74,7 +74,7 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-## 🥅 Other
+## 🥅 Others
 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
@@ -89,11 +89,11 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:eyoelijah@gmail.com)
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+2348105357067)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+2348105357067)
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/elijah.eyo.71/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/elijah.eyo.71/)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-eyo-99628469/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elijah-eyo-99628469/)
 
 ## 📈 Stats
 
@@ -109,12 +109,12 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
   
   <br />
   
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=nowodev&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=nowodev&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 
   <br />
 
-<!-- ![Profile views](https://gpvc.arturio.dev/nowodev)
+![Profile views](https://gpvc.arturio.dev/eyoelijah)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nowodev.nowodev) -->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eyoelijah.eyoelijah)
 
 </div>
