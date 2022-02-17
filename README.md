@@ -6,7 +6,7 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
 <!-- A graduate of computer engineering from **Federal University of Technology Minna** with specialization in **Computer and IT Applications** -->
 
-### Languages
+### 📋 Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,8 +45,9 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Design Tools
+### 🎨 Design Tools
 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 🖥️ IDEs/Editors
@@ -56,7 +57,7 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![sublime](https://img.shields.io/badge/sublime_text-253c44?style=for-the-badge&logo=sublimetext&logoColor=#FF9800)
 
-## Operating System
+## 🎛️ Operating System
 
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
