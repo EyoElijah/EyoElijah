@@ -98,7 +98,7 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 <div align="center">
 <!-- 
 ![Eyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true&theme=radical) -->
- ![Eyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true)
+ ![Eyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true$theme=radical)
   <br />
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyoelijah&layout=compact&theme=radical)
