@@ -101,11 +101,11 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
   <br />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EyoElijah&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyoelijah&layout=compact&theme=radical)
   
   <br />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=nowodev&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eyoelijah&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 
   <br />
 
