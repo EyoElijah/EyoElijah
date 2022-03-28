@@ -15,4 +15,4 @@ jobs:
         with:
           user_name: EyoElijah
           text: EYO ELIJAH
-      - uses: eyoelijah/simple-push-action@v1
+      - uses: jasineri/simple-push-action@v1
