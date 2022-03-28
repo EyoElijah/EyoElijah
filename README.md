@@ -101,7 +101,7 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
 
  ![Eyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true&theme=dracula)
   <br />
@@ -120,3 +120,25 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eyoelijah.eyoelijah)
 
 </div>
+ -->
+
+
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=eyoelijah&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyoelijah&langs_count=10&layout=compact&theme=radical)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=eyoelijah&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=eyoelijah&row=10&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true)
+
+![Profile views](https://gpvc.arturio.dev/eyoelijah)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eyoelijah.eyoelijah)
+
+</div>
+
