@@ -1,6 +1,6 @@
 <div align="center">
  
-![EyoElijah](gitartwork.svg)
+![gitartwork](gitartwork.svg)
  
 </div>
 
