@@ -101,7 +101,7 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
 <br />
 
-<!-- <div align="center">
+ <div align="center">
 
  ![Eyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true&theme=dracula)
   <br />
@@ -120,11 +120,11 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eyoelijah.eyoelijah)
 
 </div>
- -->
 
 
 
-<div align="center">
+
+<!-- <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoelijah&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
@@ -140,5 +140,5 @@ I am Eyo Elijah, a **Back End Web Developer** (particularly in **Nodejs**).
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eyoelijah.eyoelijah)
 
-</div>
+</div> -->
 
